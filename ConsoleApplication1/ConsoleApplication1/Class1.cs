@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace ThirdSemProject
 {
-    class GoDavDo
+    class ThirdSemProject
     {
+        System.Console.WriteLine("virker det? ");
+        System.Console.ReadLine();
     }
 }
